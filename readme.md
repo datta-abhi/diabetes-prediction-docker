@@ -1,0 +1,1 @@
+🚀 Project: Diabetes Prediction with FastAPI + Streamlit + Docker
